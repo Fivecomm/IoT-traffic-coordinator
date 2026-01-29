@@ -3,4 +3,4 @@ simulation_results/
 # batch.txt
 # plot_json.py
 /*.png
-*.json
+/*.json
